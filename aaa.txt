@@ -6,3 +6,6 @@ dsa sad
  发
 大声道撒
 大
+push
+pull
+init
